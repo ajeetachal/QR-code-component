@@ -25,6 +25,7 @@ body{
     box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 img {
+   border: #38b7bf solid 0.5px;
     border-radius: 20px;
     height: 280px; 
     width: 295px;
@@ -37,7 +38,7 @@ img {
     width: 100px;
 }
 .content h1{
-    margin: 2px;
+    margin: 10px;
     font-size: 1.3em;
     align-items: center;
     text-align: center;
@@ -46,7 +47,7 @@ img {
     text-align: center;
     font-size: 1em;
     font-weight: 400;
-    padding: 5px;
+    padding: 10px;
     margin: 10px;
     justify-content: center;
     align-self: center;
